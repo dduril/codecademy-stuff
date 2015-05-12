@@ -45,18 +45,3 @@ quotient = 13209 / 17
 name = "Black Widow"
 puts name.downcase.reverse.upcase
 ```
-
-#### Single Line Comments
-
-```
-# single line comments.
-```
-
-#### Multi-line Comments
-
-```
-=begin
-a multi-line comment
-can be done like this.
-=end
-```
