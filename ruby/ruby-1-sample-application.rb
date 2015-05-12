@@ -1,5 +1,7 @@
-#Ruby - Sample Application
+# Codecadedmy Module 1
+# Sample Application
 
+# Collect user input
 print "What's your first name?"
 first_name = gets.chomp
 first_name.capitalize!
@@ -16,4 +18,5 @@ print "What state or province are you from?"
 state = gets.chomp
 state.upcase!
 
+# Display message to user
 puts "Your name is #{first_name} #{last_name} and you're from #{city}, #{state}!"
