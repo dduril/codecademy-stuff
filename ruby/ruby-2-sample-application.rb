@@ -1,4 +1,4 @@
-# Codecadedmy Module 2
+# Codecademy Module 2
 # Sample Application
 
 # Collect user input
