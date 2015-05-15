@@ -1,5 +1,9 @@
 # Ruby - Refactoring
 
+Here's a collection of short Ruby exercises and syntax examples. I do plan to comment this a little more in the future, 
+but for now just organizing and committing them to github.
+---
+
 ```
 ruby_is_eloquent = true
 ruby_is_ugly = false

@@ -1,5 +1,9 @@
 # Ruby - Blocks and Sorting
 
+Here's a collection of short Ruby exercises and syntax examples. I do plan to comment this a little more in the future, 
+but for now just organizing and committing them to github.
+---
+
 ```
 def prime(n)
   puts "That's not an integer." unless n.is_a? Integer
