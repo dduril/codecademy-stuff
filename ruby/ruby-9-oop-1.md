@@ -1,6 +1,6 @@
 # Ruby - Object Oriented Programming I
 
-Classes
+#### Classes
 
 ```
 class Language
@@ -23,7 +23,7 @@ python.description
 javascript.description
 ```
 
-Class Syntax
+#### Class Syntax
 
 ```
 class Person
@@ -48,7 +48,7 @@ class Person
 end
 ```
 
-Instantiation
+#### Instantiation
 
 ```
 class Person
@@ -60,7 +60,7 @@ end
 matz = Person.new("Yukihiro")
 ```
 
-Scope
+#### Scope
 
 ```
 class Computer
@@ -90,7 +90,7 @@ puts "Manufacturer: #{$manufacturer}"
 puts "Files: #{Computer.display_files}"
 ```
 
-Naming Variables
+#### Naming Variables
 
 ```
 class MyClass
@@ -110,7 +110,7 @@ class Person
 end
 ```
 
-Class Variables
+#### Class Variables
 
 ```
 class Person
@@ -144,7 +144,7 @@ def create_record(attributes, raise_error = false)
 end
 ```
 
-Inheritance
+#### Inheritance
 
 ```
 class ApplicationError
@@ -160,7 +160,7 @@ err = SuperBadError.new
 err.display_error
 ```
 
-Inheritance Syntax
+#### Inheritance Syntax
 
 ```
 class Application
@@ -174,7 +174,7 @@ class MyApp < Application
 end
 ```
 
-Overriding Methods
+#### Overriding Methods
 
 ```
 class Creature
@@ -197,6 +197,8 @@ class Dragon < Creature
   end
 end
 ```
+
+#### More Examples
 
 ```
 class Creature

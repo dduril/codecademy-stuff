@@ -1,6 +1,6 @@
 Ruby - Object Oriented Programming II
 
-OOP
+#### OOP
 
 ```
 class Person
@@ -28,7 +28,7 @@ eric.about_me
 eric.bank_account_number
 ```
 
-Class Review
+#### Class Review
 
 ```
 class Dog
@@ -40,7 +40,7 @@ class Dog
 end
 ```
 
-Public
+#### Public
 
 ```
 class Dog
@@ -57,7 +57,7 @@ class Dog
 end
 ```
 
-Private
+#### Private
 
 ```
 class Dog
@@ -92,7 +92,7 @@ class Person
 end
 ```
 
-attr_accessor
+#### attr_accessor
 
 ```
 class Person
@@ -106,7 +106,7 @@ class Person
 end
 ```
 
-Modules
+#### Modules
 
 ```
 module Circle
@@ -123,7 +123,7 @@ module Circle
 end
 ```
 
-Module Syntax
+#### Module Syntax
 
 ```
 module MyLibrary
@@ -131,13 +131,13 @@ module MyLibrary
 end
 ```
 
-Modules
+#### Modules
 
 ```
 puts Math::PI
 ```
 
-Require
+#### Require
 
 ```
 require 'date'
@@ -145,7 +145,7 @@ require 'date'
 puts Date.today
 ```
 
-Include
+#### Include
 
 ```
 class Angle
@@ -165,7 +165,7 @@ acute = Angle.new(1)
 acute.cosine
 ```
 
-Mixin - Combining best of Modules and Classes
+#### Mixin - Combining best of Modules and Classes
 
 ```
 module Action
@@ -198,7 +198,7 @@ peter.jump
 jiminy.jump
 ```
 
-Imitating Multiple Inheritance
+#### Imitating Multiple Inheritance
 
 ```
 module MartialArts
@@ -222,7 +222,7 @@ class Samurai
 end
 ```
 
-Extend
+#### Extend
 
 ```
 module ThePresent
@@ -238,7 +238,7 @@ end
 TheHereAnd.now
 ```
 
-Review - Public
+#### Review - Public
 
 ```
 class Application
@@ -253,7 +253,7 @@ class Application
 end
 ```
 
-Review - Private
+#### Review - Private
 
 ```
 class Application
@@ -273,14 +273,8 @@ class Application
 end
 ```
 
-Review - Modules
+#### Review - Modules
 
-```
-module Languages
-  FAVE = "Ruby"
-end
-
-Review - Mixins
 ```
 module Languages
   FAVE = "Ruby"
