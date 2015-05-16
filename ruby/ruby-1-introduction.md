@@ -2,7 +2,7 @@
 
 The follow are some basic examples of Ruby - most of these examples should run just fine, but these are intended as more notes and starters. Some of these probably require fixes and all can be expanded upon when practicing Ruby development.
 
-Comments and explanations are a bit sparse, and really non-existent, but since this is a living document, that can change over time. The goal here was to find a place to brain dump some examples of Ruby syntax and structure.
+Comments and explanations are a bit sparse, and really non-existent, but since this is a living document, that can change over time. The goal here was to find a place to store some examples of Ruby syntax and structure.
 
 #### Variables
 
