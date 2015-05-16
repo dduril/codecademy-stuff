@@ -1,5 +1,10 @@
 # Ruby - Control Flow
 
+Control flow is very important in programming for executing one path or another based on a condition that is being tested. This is often combined with a boolean test for true or false. If someone has successfully entered 
+their credentials, then set up their session and grant them access. Else, if the conditional test returns false, then redirect them to the sign-up page.
+
+Another interesting item is the implementation of `Elsif` rathen than `Else If` or even `Elif` as seen in other programming languages.
+
 #### Prompt for User Input
 
 ```
