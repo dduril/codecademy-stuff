@@ -2,8 +2,8 @@
 
 Much information can be found at the main Ruby site and on Wikipedia:
 
-- [Ruby](https://www.ruby-lang.org/en/ "Ruby ")
-- [Ruby Wikipedia](http://en.wikipedia.org/wiki/Ruby_%28programming_language%29 "Ruby Article at Wikipedia")
+- <a href="https://www.ruby-lang.org/en/" title="Ruby" target="_blank">Ruby Language</a>
+- <a href="http://en.wikipedia.org/wiki/Ruby_%28programming_language%29" title="Ruby Article at Wikipedia" target="_blank">Wikipedia Article</a>
 
 ```
 def prime(n)
