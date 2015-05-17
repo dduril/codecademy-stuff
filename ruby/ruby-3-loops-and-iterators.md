@@ -1,5 +1,8 @@
 # Ruby - Loops
 
+Loops and iterators are used for counting and cycling through arrays and collections. A common operation is to loop through an array and output its contents to the screen and keep 
+a count while doing so. Another common usa case is to iterate through a recordset returned from a database query and display the formatted data in a list or grid control.
+
 #### While Loop
 
 ```

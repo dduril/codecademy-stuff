@@ -1,5 +1,10 @@
 # Ruby - Arrays and Hashes
 
+Ruby supports arrays and hashes like most other programming languages, but also adds some very interesting features the Ruby way. Coming from a background in C# and PHP, I like the 
+syntax, yet also find remembering some of it challenging. The code is concise and elegant, but also puts the overhead of understanding the abstractions on the programmer.
+
+But, once you get in the zone with Ruby, it is a truly fun programming language.
+
 #### Arrays
 
 ```
