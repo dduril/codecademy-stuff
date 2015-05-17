@@ -1,5 +1,10 @@
 # Ruby - Blocks and Sorting 
 
+Much information can be found at the main Ruby site and on Wikipedia:
+
+- [Ruby](https://www.ruby-lang.org/en/ "Ruby ")
+- [Ruby Wikipedia](http://en.wikipedia.org/wiki/Ruby_%28programming_language%29 "Ruby Article at Wikipedia")
+
 ```
 def prime(n)
   puts "That's not an integer." unless n.is_a? Integer
