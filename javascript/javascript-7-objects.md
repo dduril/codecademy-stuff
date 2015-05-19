@@ -1,12 +1,12 @@
 # JavaScript - Objects I
 
-Object Intro
+#### Object Intro
 
 ```
 var bob = {};
 ```
 
-Properties
+#### Properties
 
 ```
 var Spencer = {
@@ -20,7 +20,7 @@ var me = {
 };
 ```
 
-Accessing Properties
+#### Accessing Properties
 
 ```
 var bob = {
@@ -39,7 +39,7 @@ var name2 = susan.name;
 var age2 = susan.age
 ```
 
-Accessing Properties
+#### Accessing Properties
 
 ```
 // Take a look at our next example object, a dog
@@ -55,7 +55,7 @@ var weight = dog["weight"];
 var age = dog["age"];
 ```
 
-Object Literal Notation
+#### Object Literal Notation
 
 ```
 // Our bob object again, but made using a constructor this time 
@@ -73,7 +73,7 @@ susan2.name = "Susan Jordan";
 susan2.age = 24;
 ```
 
-Object Example
+#### Object Example
 
 ```
 // help us make snoopy using literal notation
@@ -89,7 +89,7 @@ var buddy = {
 };
 ```
 
-Object Example
+#### Object Example
 
 ```
 var bicycle = {
@@ -99,7 +99,7 @@ var bicycle = {
 };
 ```
 
-Function Review
+#### Function Review
 
 ```
 // Accepts a number x as input and returns its square
@@ -114,7 +114,7 @@ var multiply = function(x, y){
 multiply(5, 4);
 ```
 
-Object Method
+#### Object Method
 
 ```
 // here is bob again, with his usual properties
@@ -145,7 +145,7 @@ bob.getYearOfBirth = function () {
 console.log(bob.getYearOfBirth());
 ```
 
-This Keyword
+#### This Keyword
 
 ```
 // here we define our method using "this", before we even introduce bob
@@ -214,7 +214,7 @@ var p = square.calcPerimeter();
 var a = square.calcArea();
 ```
 
-Object Constructor
+#### Object Constructor
 
 ```
 // here we make bob using the Object constructor
@@ -224,7 +224,7 @@ bob.name = "Bob Smith";
 bob.age = 20;
 ```
 
-Custom Object Constructor
+#### Custom Object Constructor
 
 ```
 function Person(name,age) {
@@ -267,7 +267,7 @@ console.log("sally's species is " + sally.species + " and she is " + sally.age);
 console.log("holden's species is " + holden.species + " and he is " + holden.age);
 ```
 
-Constructors with Methods
+#### Constructors with Methods
 
 ```
 function Rectangle(height, width) {
@@ -304,7 +304,7 @@ console.log(rabbit2.describeMyself());
 console.log(rabbit3.describeMyself());
 ```
 
-Arrays of Objects
+#### Arrays of Objects
 
 ```
 // Our person constructor
@@ -321,7 +321,7 @@ family[2] = new Person("michelle", 8);
 family[3] = new Person("timmy", 6);
 ```
 
-Looping Through Arrays Of Objects
+#### Looping Through Arrays Of Objects
 
 ```
 function Person(name, age){
@@ -340,7 +340,7 @@ for(var i = 0; i < family.length; i++){
 }
 ```
 
-Passing Objects into Functions
+#### Passing Objects into Functions
 
 ```
 // Our person constructor
@@ -397,7 +397,7 @@ var billy = new Person("Billy", 25);
 console.log("The older person is " + olderAge(alice, billy));
 ```
 
-Object Review
+#### Object Review
 
 ```
 var spencer = {
@@ -458,7 +458,7 @@ function Circle (radius) {
 };
 ```
 
-Address Book Sample Application
+#### Address Book Sample Application
 
 ```
 var bob = {

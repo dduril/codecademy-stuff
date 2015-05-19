@@ -1,6 +1,6 @@
 # JavaScript - Functions
 
-Review - If/Else
+#### Review - If/Else
 
 ```
 var speed = 65;
@@ -12,7 +12,7 @@ else {
 }
 ```
 
-Function Example
+#### Function Example
 
 ```
 var divideByThree = function (number) {
@@ -60,7 +60,7 @@ var orangeCost = function (price) {
 orangeCost(5);
 ```
 
-Return Keyword
+#### Return Keyword
 
 ```
 // Parameter is a number, and we do math with that parameter
@@ -72,6 +72,8 @@ var timesTwo = function(number) {
 var newNumber = timesTwo(100);
 console.log(newNumber);
 ```
+
+#### Examples
 
 ```
 var quarter = function(number){
@@ -134,7 +136,7 @@ sleepCheck(5);
 sleepCheck(8);
 ```
 
-Functions - Sample Application
+#### Sample Application - Functions
 
 ```
 var userChoice = prompt("Do you choose rock, paper or scissors?");

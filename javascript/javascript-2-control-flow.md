@@ -1,6 +1,6 @@
 # JavaScript - Control Flow
 
-If Else
+#### If Else
 
 ```
 var isEven = function(number) {
@@ -13,7 +13,7 @@ var isEven = function(number) {
 };
 ```
 
-Else If
+#### Else If
 
 ```
 var isEven = function(number) {
@@ -29,7 +29,7 @@ var isEven = function(number) {
 };
 ```
 
-For Loop
+#### For Loop
 
 ```
 for(var i = 0; i < 20; i++){
@@ -37,7 +37,7 @@ for(var i = 0; i < 20; i++){
 }
 ```
 
-Switch Statement
+#### Switch Statement
 
 ```
 var lunch = prompt("What do you want for lunch?","Type your lunch choice here");
@@ -60,6 +60,8 @@ switch(lunch){
 }
 ```
 
+#### Another Switch Example
+
 ```
 var color = prompt("What's your favorite primary color?","Type your favorite color here");
 
@@ -78,7 +80,7 @@ switch(color) {
 }
 ```
 
-Prompt Example
+#### Prompt Example
 
 ```
 var answer = prompt("What's your favorite color?");
@@ -101,7 +103,7 @@ case 'orange':
 }
 ```
 
-Prompt Example
+#### Prompt Example
 
 ```
 var movie = prompt("What's your favorite movie?");
@@ -124,7 +126,7 @@ switch(movie) {
 }
 ```
 
-Logical Operator And
+#### Logical Operator And
 
 ```
 var hungry = true;
@@ -142,7 +144,7 @@ var eat = function() {
 };
 ```
 
-Logical Operator Or
+#### Logical Operator Or
 
 ```
 var tired = true;
@@ -159,7 +161,7 @@ var nap = function() {
 };
 ```
 
-Logical Operator Not
+#### Logical Operator Not
 
 ```
 var programming = false;
@@ -175,7 +177,7 @@ var happy = function() {
 };
 ```
 
-Sample Application
+#### Sample Application
 
 ```
 var entre = prompt("What would you like for dinner? PASTA, PIZZA, or SALAD").toUpperCase();

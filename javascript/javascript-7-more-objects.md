@@ -206,7 +206,7 @@ var me = new Person("Doug Duril", 47);
 printPersonName(me);
 ```
 
-Extend the Prototype
+#### Extend the Prototype
 
 ```
 function Dog (breed) {
@@ -379,7 +379,7 @@ console.log(myEmperor.numLegs); // should print 2
 console.log(myEmperor.isAlive); // should print true
 ```
 
-Public Properties
+#### Public Properties
 
 ```
 function Person(first,last,age) {
@@ -394,7 +394,7 @@ var myLast = john.lastName;
 var myAge = john.age;
 ```
 
-Private Variables
+#### Private Variables
 
 ```
 function Person(first,last,age) {
@@ -413,7 +413,7 @@ var john = new Person("John", "Smith", 30);
 console.log(john.bankBalance);
 ```
 
-Accessing Private Variables
+#### Accessing Private Variables
 
 ```
 function Person(first,last,age) {
@@ -434,7 +434,7 @@ console.log(john.bankBalance);
 var myBankBalance = john.getBalance();
 ```
 
-Private Methods
+#### Private Methods
 
 ```
 function Person(first,last,age) {
@@ -460,7 +460,7 @@ var myBalance = myBalanceMethod();
 console.log(myBalance);
 ```
 
-Passing Arguments
+#### Passing Arguments
 
 ```
 function Person(first,last,age) {
@@ -548,7 +548,7 @@ for(var x in myStudentReport) {
 console.log("Your overall GPA is " + myStudentReport.getGPA());
 ```
 
-Cash Register Sample Application
+#### Cash Register Sample Application
 
 ```
 function StaffMember(name,discountPercent){

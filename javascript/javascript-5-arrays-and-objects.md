@@ -1,19 +1,19 @@
 # JavaScript - Arrays and Objects
 
-Array Example
+#### Array Example
 
 ```
 var list = [1, 2, 3];
 ```
 
-Array Access by Offset
+#### Array Access by Offset
 
 ```
 var languages = ["HTML", "CSS", "JavaScript", "Python", "Ruby"];
 console.log(languages[2]);
 ```
 
-Array Properties
+#### Array Properties
 
 ```
 var languages = ["HTML", "CSS", "JavaScript", "Python", "Ruby"];
@@ -22,7 +22,7 @@ console.log(languages[2]);
 console.log(languages.length);
 ```
 
-Array Iteration
+#### Array Iteration
 
 ```
 var languages = ["HTML", "CSS", "JavaScript", "Python", "Ruby"];
@@ -32,25 +32,25 @@ for(var i = 0; i < languages.length; i++){
 }
 ```
 
-Heterogeneous Array
+#### Heterogeneous Array
 
 ```
 var myArray = [100, true, "Game of Thrones", 200, false];
 ```
 
-Array of Arrays
+#### Array of Arrays
 
 ```
 var newArray = [[1,2,3],[4,5,6],[7,8,9]];
 ```
 
-Jagged Array
+#### Jagged Array
 
 ```
 var jagged = [["hello", "world"], [5, 10, 15, 20, 25], ["HTML", "CSS", 10, 25], [1]];
 ```
 
-Object Example
+#### Object Example
 
 ```
 var phonebookEntry = {};
@@ -64,7 +64,7 @@ phonebookEntry.phone = function() {
 phonebookEntry.phone();
 ```
 
-Object Example
+#### Object Example
 
 ```
 var me = {
@@ -73,7 +73,7 @@ var me = {
 }
 ```
 
-Object Syntax
+#### Object Syntax
 
 ```
 var me = new Object();
@@ -82,7 +82,7 @@ me["name"] = "Doug";
 me["age"] = 47;
 ```
 
-Object Example
+#### Object Examples
 
 ```
 var object1 = {
@@ -122,7 +122,7 @@ var myOwnObject = {
 };
 ```
 
-Sample Application Key
+#### Sample Application Key
 
 ```
 var friends = {};
@@ -158,7 +158,7 @@ list(friends);
 search("Steve");
 ```
 
-Sample Application
+#### Sample Application
 
 ```
 var friends = {};

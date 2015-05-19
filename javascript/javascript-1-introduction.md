@@ -7,13 +7,13 @@
 "cake".length
 ```
 
-Confirm
+#### Confirm - Example 1
 
 ```
 confirm('This is an example of using JS to create some interaction on a website. Click OK to continue!');
 ```
 
-Confirm
+#### Confirm - Example 2
 
 ```
 // Also try the Q&A forum to get help
@@ -21,26 +21,26 @@ Confirm
 confirm("Would you like to leave this page?");
 ```
 
-Prompt
+#### Prompt
 
 ```
 prompt("Where are you from?");
 ```
 
-String Length
+#### String Length
 
 ```
 "Salad and Pizza".length
 ```
 
-Console
+#### Console Logging
 
 ```
 console.log(2 * 5);
 console.log("Hello");
 ```
 
-Another Console Example
+#### Another Console Example
 
 ```
 // Here is an example of using the greater than (>) operator.
@@ -52,7 +52,7 @@ console.log("Goody Donaldson".length > 8);
 console.log(8*2 == 16);
 ```
 
-If
+#### If
 
 ```
 if ("Doug".length == 4 ) {
@@ -60,7 +60,7 @@ if ("Doug".length == 4 ) {
 }
 ```
 
-If/Else
+#### If/Else
 
 ```
 if ("Doug".length > 4 ) {
@@ -72,7 +72,7 @@ else {
 }
 ```
 
-Modulo
+#### Modulo
 
 ```
 if(10 % 2 === 0 ) {
@@ -82,20 +82,20 @@ if(10 % 2 === 0 ) {
 }
 ```
 
-Substring
+#### Substring
 
 ```
 "wonderful day".substring(3,7);
 ```
 
-Variables
+#### Variables
 
 ```
 var myAge = 45;
 console.log(myAge);
 ```
 
-Choose Your Own Adventure! Sample Application
+#### Sample Application - Choose Your Own Adventure!
 
 ```
 // Check if the user is ready to play!

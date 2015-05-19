@@ -1,6 +1,6 @@
 # JavaScript - While Loops
 
-While
+#### While Examples
 
 ```
 var coinFace = Math.floor(Math.random() * 2);
@@ -61,7 +61,7 @@ while(bool){
 }
 ```
 
-Do While
+#### Do While
 
 ```
 loopCondition = false;
@@ -71,7 +71,7 @@ do {
 } while (loopCondition);
 ```
 
-For, While, and Do Loops
+#### For, While, and Do Loops
 
 ```
 for(var x = 0; x < 10; x++){
@@ -90,6 +90,8 @@ bool = false;
       console.log("do while...");
   }while(bool)
 ```
+
+#### Sample Application
 
 ```
 var slaying = true;

@@ -1,6 +1,6 @@
 # JavaScript - For Loops
 
-Why Use Loops?
+#### Why Use Loops?
 
 ```
 console.log(1);
@@ -10,7 +10,7 @@ console.log(4);
 console.log(5);
 ```
 
-For Loops
+#### For Loop Examples
 
 ```
 for (var counter = 1; counter < 11; counter++) {
@@ -36,21 +36,21 @@ for(i = 100; i > 0; i-=5){
 }
 ```
 
-Arrays
+#### Arrays
 
 ```
 var junk = ["seed", "rake", 10, 20];
 console.log(junk);
 ```
 
-Array Positions
+#### Array Positions
 
 ```
 var junkData = ["Eddie Murphy", 49, "peanuts", 31];
 console.log(junkData[3]);
 ```
 
-Loops and Arrays
+#### Loops and Arrays
 
 ```
 var cities = ["Melbourne", "Amman", "Helsinki", "NYC", "San Jose", "San Diego", "Cupertino", "Sunnyvale"];
@@ -60,7 +60,7 @@ for (var i = 0; i < cities.length; i++) {
 }
 ```
 
-Loops and Arrays
+#### Loops and Arrays
 
 ```
 names = ["John", "Bill", "Lisa", "Wendy", "Jake"];
@@ -69,7 +69,7 @@ for(i = 0; i < names.length; i++){
 }
 ```
 
-Loops and Arrays - Sample Application
+#### Sample Application - Loops and Arrays 
 
 ```
 /*jshint multistr:true */
