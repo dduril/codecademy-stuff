@@ -443,6 +443,7 @@ function Book (pages, author) {
 
 // Use our new constructor to make the_hobbit in one line
 var the_hobbit = new Book(320, "J.R.R. Tolkien");
+```
 
 ```
 function Circle (radius) {
