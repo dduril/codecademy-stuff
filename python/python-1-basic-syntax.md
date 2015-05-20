@@ -15,9 +15,6 @@ my_bool = True
 ```
 
 ```
-# my_int is set to 7 below. What do you think
-# will happen if we reset it to 3 and print the result?
-
 my_int = 7
 print my_int
 ```
@@ -45,7 +42,6 @@ print spam()
 """
 
 ```
-# Set count_to equal to the sum of two big numbers
 count_to = 10012345678 + 234234342434
 
 print count_to
@@ -62,7 +58,6 @@ print spam
 ```
 
 ```
-# program review
 monty = True
 python = 1.234
 monty_python = python ** 2

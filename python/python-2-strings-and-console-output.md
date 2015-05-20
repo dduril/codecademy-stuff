@@ -1,25 +1,20 @@
 #### Python - Strings and Console Output
 
 ```
-# Set the variable brian on line 3!
 brian = "Hello life!"
 ```
 
 ```
-# Assign your variables below, each on its own line!
 caesar = "Graham"
 praline = "John"
 viking = "Teresa"
-```
 
-# Put your variables above this line
 print caesar
 print praline
 print viking
 ```
 
 ```
-# The string below is broken. Fix it using the escape backslash!
 'This isn\'t flying, this is falling with style!'
 ```
 
@@ -72,12 +67,10 @@ print "Monty Python"
 ```
 
 ```
-# Print the concatenation of "Spam and eggs" on line 3!
 print "Spam " + "and " + "eggs"
 ```
 
 ```
-# Turn 3.14 into a string on line 3!
 print "The value of pi is around " + str(3.14)
 ```
 
