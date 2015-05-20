@@ -1,4 +1,4 @@
-#### Python - Strings and Console Output
+# Python - Strings and Console Output
 
 ```
 brian = "Hello life!"

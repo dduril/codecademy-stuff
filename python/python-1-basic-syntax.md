@@ -1,4 +1,4 @@
-#### Python - Python Syntax
+# Python - Python Syntax
 
 ```
 print "Welcome to Python!"
