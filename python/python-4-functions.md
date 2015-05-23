@@ -1,5 +1,7 @@
 # Python - Functions
 
+#### Function Examples
+
 ```
 def tax(bill):
     """Adds 8% tax to a restaurant bill."""

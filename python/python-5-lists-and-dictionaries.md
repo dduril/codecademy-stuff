@@ -1,5 +1,6 @@
 # Python - Lists and Dictionaries
 
+#### List Examples
 ```
 zoo_animals = ["elephant", "monkey", "lion", "giraffe"];
 
@@ -79,6 +80,8 @@ square_list.sort()
 
 print square_list
 ```
+
+#### Dictionary Examples
 
 ```
 residents = {'Puffin' : 104, 'Sloth' : 105, 'Burmese Python' : 106}
