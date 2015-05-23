@@ -1,6 +1,7 @@
 # Python - Lists and Dictionaries
 
 #### List Examples
+
 ```
 zoo_animals = ["elephant", "monkey", "lion", "giraffe"];
 
@@ -52,6 +53,7 @@ animals = "catdogfrog"
 cat  = animals[:3]   
 dog  = animals[3:6]  
 frog = animals[6:10] 
+```
 
 ```
 animals = ["aardvark", "badger", "duck", "emu", "fennec fox"]
@@ -123,6 +125,7 @@ print zoo_animals
 ```
 backpack = ['xylophone', 'dagger', 'tent', 'bread loaf']
 backpack.remove("dagger")
+```
 
 ```
 inventory = {

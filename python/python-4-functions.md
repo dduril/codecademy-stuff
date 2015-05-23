@@ -123,6 +123,7 @@ print minimum
 ```
 absolute = abs(-42)
 print absolute
+```
 
 ```
 print type(100)

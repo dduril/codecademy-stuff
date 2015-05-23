@@ -18,8 +18,6 @@ def clinic():
 clinic()
 ```
 
-```
-
 #### Boolean Operators
 
 ```
